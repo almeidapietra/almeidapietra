@@ -1,4 +1,4 @@
-### Olá, bem vindo(a) ao meu perfil! 😄
+### Oiê, bem vindo(a) ao meu perfil! 😄
  
  🌱 Sou uma Dev Front-End em formação, me dedico a desenvolver habilidades técnicas em HTML, CSS, JavaScript e a biblioteca React.
  
