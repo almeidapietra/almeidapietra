@@ -1,8 +1,7 @@
 ### Olá, bem vindo(a) ao meu perfil! 😄
  
- 🌱 Sou uma Dev Front-End em formação, no momento estudo HTML, CSS e JavaScript. 
-
-## 
+ 🌱 Sou uma Dev Front-End em formação, me dedico a desenvolver habilidades técnicas em HTML, CSS, JavaScript e a biblioteca React.
+ 
 <div>
   <a href="https://github.com/almeidapietra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeidapietra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
